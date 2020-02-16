@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 class ARG
 {
-	static int y=0;
+	static int y=01;
 	
 	public static void main(String[] args)
 	{
