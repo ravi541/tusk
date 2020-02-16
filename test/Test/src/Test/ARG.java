@@ -5,9 +5,10 @@ package Test;
 import java.util.Arrays;
 import java.util.Scanner;
 
+
 class ARG
 {
-	static int y=01;
+	static int y=02;
 	
 	public static void main(String[] args)
 	{
