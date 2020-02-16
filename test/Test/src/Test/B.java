@@ -8,7 +8,7 @@ public class B {
 }
 public synchronized void last()
 {
-	System.out.println("A's last method");
+	System.out.println("A's last method hiiii");
 }
 }
 
